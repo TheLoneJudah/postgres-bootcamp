@@ -21,8 +21,7 @@ Throughout the bootcamp, the following topics are explored:
 ## Repository Structure
 
 Assignments and exercises will be organized by week and day as the bootcamp progresses.
-
-
+\i solution.sql - Day 2
 
 ## Getting Started
 
@@ -31,4 +30,4 @@ To work with the SQL files in this repository, ensure you have **PostgreSQL** in
 SQL files can be executed in the PostgreSQL terminal using:
 
 ```sql
-\i filename.sql
+\i solution.sql
