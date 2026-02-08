@@ -30,7 +30,4 @@ https://github.com/TheLoneJudah/postgres-bootcamp/blob/d587cbc4ae66d4b2ac90e3be9
 
 To work with the SQL files in this repository, ensure you have **PostgreSQL** installed on your local machine.
 
-SQL files can be executed in the PostgreSQL terminal using:
-
-```sql
 
