@@ -26,6 +26,8 @@ https://github.com/TheLoneJudah/postgres-bootcamp/blob/549eb68c30d9e33e16eb8c51a
 
 https://github.com/TheLoneJudah/postgres-bootcamp/blob/d587cbc4ae66d4b2ac90e3be9b1090b73d607436/solution2.sql - Day 3
 
+https://github.com/TheLoneJudah/postgres-bootcamp/blob/8a8bb1148c88b007c1ebbe2f619de90bd0ffa7cd/solution3.sql - Day 4
+
 ## Getting Started
 
 To work with the SQL files in this repository, ensure you have **PostgreSQL** installed on your local machine.
