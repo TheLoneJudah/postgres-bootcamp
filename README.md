@@ -28,6 +28,8 @@ https://github.com/TheLoneJudah/postgres-bootcamp/blob/d587cbc4ae66d4b2ac90e3be9
 
 https://github.com/TheLoneJudah/postgres-bootcamp/blob/8a8bb1148c88b007c1ebbe2f619de90bd0ffa7cd/solution3.sql - Day 4
 
+https://github.com/TheLoneJudah/postgres-bootcamp/blob/aed668a85cdeafc79ba7b6f0516c4cec97418282/netflix_project.sql - Netflix Project
+
 ## Getting Started
 
 To work with the SQL files in this repository, ensure you have **PostgreSQL** installed on your local machine.
